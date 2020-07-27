@@ -1,4 +1,12 @@
-### Hi there 👋
+[![hector-header.png](https://i.postimg.cc/gJgfJXxj/hector-header.png)](https://postimg.cc/DJbCpzd3)
+
+### 🌎 More about me:
+
+🤵🏾 Professional Profile on [LinkedIn](https://www.linkedin.com/in/hectordeveloper/). \
+🌱 Some of my work on [CodePen](https://codepen.io/zhectorsm/full/xxGoywG). 
+
+                                                  Work in progress 🚧👷🏾🧱🧱...
+
 
 <!--
 **ZhectorSM/ZhectorSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
