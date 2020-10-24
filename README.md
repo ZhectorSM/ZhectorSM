@@ -3,7 +3,7 @@
 ### 🌎 More about me:
 
 🤵🏾 Professional Profile on [LinkedIn](https://www.linkedin.com/in/hectordeveloper/). \
-🌱 Some of my work on [CodePen](https://codepen.io/zhectorsm/full/xxGoywG). 
+🌱 Some of my work on [Portafolio](http://wwww.hectorsolares.com/). 
 
                                                   Work in progress 🚧👷🏾🧱🧱...
 
