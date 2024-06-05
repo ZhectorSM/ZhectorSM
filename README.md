@@ -2,7 +2,7 @@
 
 ### 🌎 More about me:
 
-🤵🏾 Professional Profile on [LinkedIn](https://www.linkedin.com/in/hectordeveloper/). \
+🤵🏾 Professional Profile on [LinkedIn](https://www.linkedin.com/in/zhectorsm/). \
 🌱 Some of my work [Portafolio](http://www.hectorsolares.com/). 
 
                                                   Work in progress 🚧👷🏾🧱🧱...
